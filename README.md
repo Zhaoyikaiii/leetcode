@@ -13,3 +13,4 @@ LeetCode Algorithm
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)|  [Go](./algorithms/golang/minimumSizeSubarraySum/minimumSizeSubarraySum.go) | Medium |
 |395|[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/description/)|  [Go](./algorithms/golang/longestSubstringWithAtLeastKRepeating/longestSubstringWithAtLeastKRepeating.go)|Medium|
 |904|[Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/description/)|  [Go](./algorithms/golang/fruitIntoBaskets//fruitIntoBaskets.go)|Medium|
+|424| [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/)|[Go]()
