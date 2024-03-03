@@ -11,3 +11,4 @@ LeetCode Algorithm
 |3|[Valid Parentheses](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|  [Go](./algorithms/golang/longestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeatingCharacters.go) | Medium |
 |2461|[Maximum Sum Subarray of Size K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/description/)|  [Go](./algorithms/golang/maximumSumOfDistinctSubArraysWithLengthK/maximumSubOfDistinctSubArraysWithLengthK.go) | Medium |
 |209|[Maximum Sum Subarray of Size KMinimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)|  [Go](./algorithms/golang/maximumSumOfDistinctSubArraysWithLengthK/maximumSubOfDistinctSubArraysWithLengthK.go) | Medium |
+|209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)|  [Go](./algorithms/golang/minimumSizeSubarraySum/minimumSizeSubarraySum.go) | Medium |
