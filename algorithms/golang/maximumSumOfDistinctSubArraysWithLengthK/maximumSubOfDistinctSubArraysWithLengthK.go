@@ -21,7 +21,7 @@ func maximumSubarraySum(nums []int, k int) int {
 			if window[nums[i-k]] > 1 {
 				window[nums[i-k]] -= 1
 			} else {
-				delete(window, nums[i-k]) // When the window is full, eliminate the first element( nums[i-k], which is the rightmost element of the window) from the window.
+				delete(window, nums[i-k]) // When the window is full, eliminate the first element(nums[i-k]) from the window.
 			}
 			sum -= nums[i-k]
 		}
