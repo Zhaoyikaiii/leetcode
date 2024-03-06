@@ -16,5 +16,5 @@ LeetCode Algorithm
 |424| [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/)|[Go](./algorithms/golang/longestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeatingCharacters.go)| Medium |
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring)|[Go](./algorithms/golang/minimumWindowSubstring/minimumWindowSubstring.go)|Hard|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)|[Go](./algorithms/golang/minimumWindowSubstring/minimumWindowSubstring.go)|Easy|
-|977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/)|[Go](./algorithms/golang/SquaresOfASortedArray/squaresOfASortedArray.go)|Easy|
-|713|[Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/description/)|[Go](./algorithms/golang/SquaresOfASortedArray/squaresOfASortedArray.go)|Easy|
+|977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/)|[Go](./algorithms/golang/SquaresOfASortedArray/squaresOfASortedArray.go)|Medium|
+|713|[Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/description/)|[Go](./algorithms//golang/subarrayProductLessThanK/subarrayProductLessThanK.go)|Medium|
