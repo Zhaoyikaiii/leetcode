@@ -20,4 +20,5 @@ LeetCode Algorithm
 |713|[Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/description/)|[Go](./algorithms//golang/subarrayProductLessThanK/subarrayProductLessThanK.go)|Medium|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)|[Go](./algorithms//golang/subarrayProductLessThanK/subarrayProductLessThanK.go)|Medium|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/description/)|[Go](./algorithms//golang/findMissingNumber/findMissingNumber.go)|easy|
-|448| [Find All Numbers Disappeared In An Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[Go]()
+|448| [Find All Numbers Disappeared In An Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[Go](./algorithms/golang/findAllNumbersDisappearedInAnArray/findAllNumbersDisappearedInAnArray.go)|easy|
+|287|[Find the duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)|[Go](./algorithms/golang/findTheDuplicateNumber/findTheDuplicateNumber.go)|Medium|
