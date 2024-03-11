@@ -19,3 +19,4 @@ LeetCode Algorithm
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/)|[Go](./algorithms/golang/SquaresOfASortedArray/squaresOfASortedArray.go)|Medium|
 |713|[Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/description/)|[Go](./algorithms//golang/subarrayProductLessThanK/subarrayProductLessThanK.go)|Medium|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)|[Go](./algorithms//golang/subarrayProductLessThanK/subarrayProductLessThanK.go)|Medium|
+|268|[Missing Number](https://leetcode.com/problems/missing-number/description/)|[Go](./algorithms//golang/findMissingNumber/findMissingNumber.go)|easy|
